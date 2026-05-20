@@ -1,0 +1,13 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../MIPS.srcs/sources_1/new/EX.vhd" \
+"../../../../MIPS.srcs/sources_1/new/ID.vhd" \
+"../../../../MIPS.srcs/sources_1/new/IFetch.vhd" \
+"../../../../MIPS.srcs/sources_1/new/MEM.vhd" \
+"../../../../../../random/MPG.vhd" \
+"../../../../MIPS.srcs/sources_1/new/UC.vhd" \
+"../../../../../../random/SSD.vhd" \
+"../../../../MIPS.srcs/sources_1/new/test_env.vhd" \
+
+# Do not sort compile order
+nosort

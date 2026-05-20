@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="test_env_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="test_env" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="74,007,699,990 ps"></ZoomStartTime>
+      <ZoomEndTime time="74,007,700,003 ps"></ZoomEndTime>
+      <Cursor1Time time="74,007,700,000 ps"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="208"></NameColumnWidth>
+      <ValueColumnWidth column_width="99"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="44" />
+   <wvobject fp_name="/test_env/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/btn" type="array">
+      <obj_property name="ElementShortName">btn[4:0]</obj_property>
+      <obj_property name="ObjectShortName">btn[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/sw" type="array">
+      <obj_property name="ElementShortName">sw[15:0]</obj_property>
+      <obj_property name="ObjectShortName">sw[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/led" type="array">
+      <obj_property name="ElementShortName">led[15:0]</obj_property>
+      <obj_property name="ObjectShortName">led[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/an" type="array">
+      <obj_property name="ElementShortName">an[7:0]</obj_property>
+      <obj_property name="ObjectShortName">an[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/cat" type="array">
+      <obj_property name="ElementShortName">cat[6:0]</obj_property>
+      <obj_property name="ObjectShortName">cat[6:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/en" type="logic">
+      <obj_property name="ElementShortName">en</obj_property>
+      <obj_property name="ObjectShortName">en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_pc_4" type="array">
+      <obj_property name="ElementShortName">p_pc_4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">p_pc_4[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_rd1" type="array">
+      <obj_property name="ElementShortName">p_rd1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">p_rd1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_rd2" type="array">
+      <obj_property name="ElementShortName">p_rd2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">p_rd2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_ext_imm" type="array">
+      <obj_property name="ElementShortName">p_ext_imm[31:0]</obj_property>
+      <obj_property name="ObjectShortName">p_ext_imm[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_func" type="array">
+      <obj_property name="ElementShortName">p_func[5:0]</obj_property>
+      <obj_property name="ObjectShortName">p_func[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_sa" type="array">
+      <obj_property name="ElementShortName">p_sa[4:0]</obj_property>
+      <obj_property name="ObjectShortName">p_sa[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_mux_ssd" type="array">
+      <obj_property name="ElementShortName">p_mux_ssd[31:0]</obj_property>
+      <obj_property name="ObjectShortName">p_mux_ssd[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/RegDst" type="logic">
+      <obj_property name="ElementShortName">RegDst</obj_property>
+      <obj_property name="ObjectShortName">RegDst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/ExtOp" type="logic">
+      <obj_property name="ElementShortName">ExtOp</obj_property>
+      <obj_property name="ObjectShortName">ExtOp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/ALUSrc" type="logic">
+      <obj_property name="ElementShortName">ALUSrc</obj_property>
+      <obj_property name="ObjectShortName">ALUSrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/Branch" type="logic">
+      <obj_property name="ElementShortName">Branch</obj_property>
+      <obj_property name="ObjectShortName">Branch</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/Jump" type="logic">
+      <obj_property name="ElementShortName">Jump</obj_property>
+      <obj_property name="ObjectShortName">Jump</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/MemWrite" type="logic">
+      <obj_property name="ElementShortName">MemWrite</obj_property>
+      <obj_property name="ObjectShortName">MemWrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/MemtoReg" type="logic">
+      <obj_property name="ElementShortName">MemtoReg</obj_property>
+      <obj_property name="ObjectShortName">MemtoReg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/RegWrite" type="logic">
+      <obj_property name="ElementShortName">RegWrite</obj_property>
+      <obj_property name="ObjectShortName">RegWrite</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/JmpR" type="logic">
+      <obj_property name="ElementShortName">JmpR</obj_property>
+      <obj_property name="ObjectShortName">JmpR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/ALUOp" type="array">
+      <obj_property name="ElementShortName">ALUOp[2:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOp[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/BNE" type="logic">
+      <obj_property name="ElementShortName">BNE</obj_property>
+      <obj_property name="ObjectShortName">BNE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_zero" type="logic">
+      <obj_property name="ElementShortName">p_zero</obj_property>
+      <obj_property name="ObjectShortName">p_zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_gtz" type="logic">
+      <obj_property name="ElementShortName">p_gtz</obj_property>
+      <obj_property name="ObjectShortName">p_gtz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_alures" type="array">
+      <obj_property name="ElementShortName">p_alures[31:0]</obj_property>
+      <obj_property name="ObjectShortName">p_alures[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_alures_mem" type="array">
+      <obj_property name="ElementShortName">p_alures_mem[31:0]</obj_property>
+      <obj_property name="ObjectShortName">p_alures_mem[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_branch_addr" type="array">
+      <obj_property name="ElementShortName">p_branch_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">p_branch_addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_mem_data" type="array">
+      <obj_property name="ElementShortName">p_mem_data[31:0]</obj_property>
+      <obj_property name="ObjectShortName">p_mem_data[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_wd_final" type="array">
+      <obj_property name="ElementShortName">p_wd_final[31:0]</obj_property>
+      <obj_property name="ObjectShortName">p_wd_final[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_pcsrc" type="logic">
+      <obj_property name="ElementShortName">p_pcsrc</obj_property>
+      <obj_property name="ObjectShortName">p_pcsrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_instruction" type="array">
+      <obj_property name="ElementShortName">p_instruction[31:0]</obj_property>
+      <obj_property name="ObjectShortName">p_instruction[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/p_jump_addr" type="array">
+      <obj_property name="ElementShortName">p_jump_addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">p_jump_addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/U_MEM/MemData" type="array">
+      <obj_property name="ElementShortName">MemData[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MemData[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/U_MEM/DATA_MEM" type="array">
+      <obj_property name="ElementShortName">DATA_MEM[0:63][31:0]</obj_property>
+      <obj_property name="ObjectShortName">DATA_MEM[0:63][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/U_EX/ALUSrc" type="logic">
+      <obj_property name="ElementShortName">ALUSrc</obj_property>
+      <obj_property name="ObjectShortName">ALUSrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/U_IF/PCSrc" type="logic">
+      <obj_property name="ElementShortName">PCSrc</obj_property>
+      <obj_property name="ObjectShortName">PCSrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/U_EX/Zero" type="logic">
+      <obj_property name="ElementShortName">Zero</obj_property>
+      <obj_property name="ObjectShortName">Zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/U_ID/RD1" type="array">
+      <obj_property name="ElementShortName">RD1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RD1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/U_ID/RD2" type="array">
+      <obj_property name="ElementShortName">RD2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RD2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/test_env/U_ID/RF" type="array">
+      <obj_property name="ElementShortName">RF[0:31][31:0]</obj_property>
+      <obj_property name="ObjectShortName">RF[0:31][31:0]</obj_property>
+   </wvobject>
+</wave_config>

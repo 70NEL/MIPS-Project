@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+D:/Proiecte AC/MIPS/MIPS.srcs/sim_1/new/SIM.vhd,1778586318,vhdl,,,,sim_test_env,,,,,,,,
+D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/EX.vhd,1778854178,vhdl,D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/test_env.vhd,,,ex,,,,,,,,
+D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/ID.vhd,1778846038,vhdl,D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/test_env.vhd,,,id,,,,,,,,
+D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/IFetch.vhd,1778852474,vhdl,D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/test_env.vhd,,,ifetch,,,,,,,,
+D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/MEM.vhd,1778854206,vhdl,D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/test_env.vhd,,,mem,,,,,,,,
+D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/UC.vhd,1778600012,vhdl,D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/test_env.vhd,,,uc,,,,,,,,
+D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/test_env.vhd,1778839495,vhdl,D:/Proiecte AC/MIPS/MIPS.srcs/sim_1/new/SIM.vhd,,,test_env,,,,,,,,
+D:/random/MPG.vhd,1772811496,vhdl,D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/test_env.vhd,,,mpg,,,,,,,,
+D:/random/SSD.vhd,1773404765,vhdl,D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/test_env.vhd,,,ssd,,,,,,,,

@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/EX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'EX'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/MEM.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'MEM'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Proiecte AC/MIPS/MIPS.srcs/sources_1/new/test_env.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'test_env'
